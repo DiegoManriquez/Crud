@@ -1,0 +1,7 @@
+Django 2.0.6
+Python 3.6
+mysql
+virtualenv : myenv
+pagina principal
+
+ http://localhost:8000/crud/
